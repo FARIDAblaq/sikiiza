@@ -1,0 +1,156 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* API request */
+.he{
+   margin: 40px;
+   color: rgb(255, 255, 255);
+   padding-top:120px;
+   font-size: 30px;
+}
+.success-message{
+    
+    height:320px;
+    margin-top: 100px;
+    background-color:#0041F3 ;
+    margin-left: 30%;
+    margin-right:30% ;
+    text-align: center;
+    border-radius: 7px;
+    box-shadow: 5px 5px 15px 15px#e2e2e2;
+    
+}
+
+.he2{
+    margin: 40px;
+}
+
+
+
+.first_half {
+    width: 390px;
+    background-color: rgb(255, 255, 255);
+    height:450px;
+    margin: auto;
+    border-radius: 5px;
+    top:0;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+    left:50%;
+    right:0;
+    box-shadow: 0.001rem 0.001rem 15px rgb(161, 161, 161);
+}
+
+form {
+    align-items: center;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 45px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 27px;
+    padding-top: 25px;
+}
+
+.input_field {
+    display: block;
+    height: 25px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+    border: 0ch;
+    margin-top: 10px;
+    background-color: rgb(221, 221, 221);
+}
+
+input:hover {
+    padding-left: 2px;
+    box-shadow: 5px;
+}
+
+.btn {
+    width: 210px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #0a0a0a;
+    /* margin-top: 109px; */
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+    height: 50px;
+    cursor: pointer;
+}
+.btn2 {
+    width: 320px;
+    border: none;
+    
+    border-radius: 5px;
+    background-color: #0041F3;
+    /* margin-top: 109px; */
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+    height: 50px;
+    cursor: pointer;
+}
+
+
+.btn:hover {
+    background-color: #363636;
+
+}
+
+
+/* API request */
+
+
+/* a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration-color: beige;
+    color: beige;
+    font-size: 18px;
+    text-decoration: overline;
+} */
+
+
+/* .first {
+    width: 370px;
+    background-color: rgb(235, 235, 253);
+    height: 300px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 45px;
+    box-shadow: 3px 2px 3px 2px #888787;
+}
+
+.forg {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.forg:hover {
+    font-size: 17px;
+    color: beige;
+}
+
+#c {
+    margin-top: 0;
+    margin-bottom: 30px;
+} */
